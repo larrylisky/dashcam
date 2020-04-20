@@ -29,6 +29,6 @@ public class SwiftDashcamPlugin: NSObject, FlutterPlugin {
   }
     
     private func configureCamera(width: Int, height: Int, frameRate: Double) -> Bool {
-        return true
+        return Dashcam().shouldSupportADAS
     }
 }
