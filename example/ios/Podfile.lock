@@ -1,0 +1,22 @@
+PODS:
+  - dashcam (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - dashcam (from `.symlinks/plugins/dashcam/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  dashcam:
+    :path: ".symlinks/plugins/dashcam/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  dashcam: 583f6c432793f1c2a24cd66b31e540e15aa4cef5
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.9.1
